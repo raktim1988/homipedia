@@ -16,7 +16,7 @@ const houses = [];
 const { CHAT_ID, BOT_API } = process.env;
 
 const urls = [
-    'https://www.funda.nl/en/koop/amsterdam/apollobuurt,burgwallen-nieuwe-zijde,burgwallen-oude-zijde,de-weteringschans,indische-buurt-oost,jordaan,museumkwartier,nieuwe-pijp,oosterparkbuurt,oostzanerwerf,oude-pijp,overtoomse-veld,rijnbuurt,weesperbuurt-plantage,weesperzijde,zeeburgereiland-nieuwe-diep,zuid-pijp,zuidas/beschikbaar/300000-500000/40+woonopp/1-dag/'
+    'https://www.funda.nl/kaart/huur/amsterdam/beschikbaar/0-1750/75+woonopp/appartement/2+slaapkamers/?zoom=12&center=52.39322285783496,4.868384322805177'
 ];
 
 const runTask = async () => {
